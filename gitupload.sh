@@ -1,7 +1,12 @@
 #!/bin/bash
 
+node new.js
+
+
 # Set the GitHub repository URL
 REPO_URL="git@github.com:kus123123/newbuild.git"
+
+
 
 # Add all changes to git
 git add .

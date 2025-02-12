@@ -1,6 +1,12 @@
-function sum (a, b) {
-  
-    console.log('This is a test',a+b); // This line will never be executed
-    return a + b;
-  }
-  
+const fs = require("fs");
+
+function generateDate() {
+  return new Date();
+}
+function savedatetofile() {
+  let date = generateDate();
+  fs.appendFileSync("date.txt", date);
+
+    console.log("Date saved to file");
+}
+savedatetofile();
