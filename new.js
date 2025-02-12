@@ -1,12 +1,9 @@
-const fs = require("fs");
-
-function generateDate() {
-  return new Date();
+function writefile(){
+    var fs = require('fs');
+    date = new Date();
+    fs.appendFile('mynewfile3.txt', `\n ${date} \n`, function (err) {
+      if (err) throw err;
+      console.log('Saved!');
+    });
 }
-function savedatetofile() {
-  let date = generateDate();
-  fs.appendFileSync("date.txt", date);
-
-    console.log("Date saved to file");
-}
-savedatetofile();
+writefile();
