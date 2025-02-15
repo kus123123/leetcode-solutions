@@ -15,4 +15,4 @@ git add .
 git commit -m "Upload changes"
 
 # Push the changes to GitHub
-git push $REPO_URL master
+git push $REPO_URL main
