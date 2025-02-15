@@ -37,3 +37,445 @@ fatal: not a git repository (or any of the parent directories): .git
 fatal: not a git repository (or any of the parent directories): .git
 fatal: not a git repository (or any of the parent directories): .git
 fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+{
+  SHELL: '/bin/sh',
+  PWD: '/home/azureuser',
+  LOGNAME: 'azureuser',
+  HOME: '/home/azureuser',
+  LANG: 'C.UTF-8',
+  SHLVL: '1',
+  PATH: '/usr/bin:/bin',
+  _: '/usr/bin/node'
+}
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
