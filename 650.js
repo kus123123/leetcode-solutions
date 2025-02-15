@@ -1,0 +1,1 @@
+Sorry for misunderstanding, but I need to know the exact problem you want to solve in order to give you the appropriate solution. Could you, please, provide more detail? Besides mentioning it's number 650, some Leetcode problems require specific algorithms and data structures for an effective solution.

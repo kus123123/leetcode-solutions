@@ -1,0 +1,5 @@
+.env
+node_modules
+gitupload.sh
+helper.js
+new.js
